@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0046-permutations) |
+| [0136-single-number](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0136-single-number) |
 | [0941-valid-mountain-array](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0941-valid-mountain-array) |
 | [1037-valid-boomerang](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/1037-valid-boomerang) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -71,6 +72,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0136-single-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Matrix
 |  |
