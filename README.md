@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0001-two-sum) |
+| [0046-permutations](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0046-permutations) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0046-permutations) |
 | [0257-binary-tree-paths](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0257-binary-tree-paths) |
 ## Tree
 |  |
