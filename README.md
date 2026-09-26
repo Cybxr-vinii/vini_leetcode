@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0046-permutations) |
+| [1672-richest-customer-wealth](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,4 +61,8 @@
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
