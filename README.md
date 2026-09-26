@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0046-permutations) |
 ## Hash Table
 |  |
@@ -37,4 +38,8 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0257-binary-tree-paths) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
