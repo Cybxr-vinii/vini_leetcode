@@ -20,6 +20,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0070-climbing-stairs) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
 |  |
@@ -73,4 +74,12 @@
 |  |
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
