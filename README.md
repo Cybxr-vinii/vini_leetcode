@@ -26,6 +26,7 @@
 | [0009-palindrome-number](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0412-fizz-buzz) |
 | [1037-valid-boomerang](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/1037-valid-boomerang) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
@@ -35,6 +36,7 @@
 | [0058-length-of-last-word](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0257-binary-tree-paths) |
+| [0412-fizz-buzz](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0709-to-lower-case) |
 ## Backtracking
 |  |
@@ -114,4 +116,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
