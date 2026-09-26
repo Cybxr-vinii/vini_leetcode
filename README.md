@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -20,6 +21,7 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0257-binary-tree-paths) |
 ## Backtracking
 |  |
@@ -49,4 +51,8 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0100-same-tree) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
