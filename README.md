@@ -14,6 +14,7 @@
 | [1037-valid-boomerang](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/1037-valid-boomerang) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1672-richest-customer-wealth](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/1672-richest-customer-wealth) |
+| [2418-sort-the-people](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/2418-sort-the-people) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 | [0242-valid-anagram](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0242-valid-anagram) |
 | [0929-unique-email-addresses](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0929-unique-email-addresses) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2418-sort-the-people](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/2418-sort-the-people) |
 ## Math
 |  |
 | ------- |
@@ -41,6 +43,7 @@
 | [0412-fizz-buzz](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0709-to-lower-case) |
 | [0929-unique-email-addresses](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0929-unique-email-addresses) |
+| [2418-sort-the-people](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/2418-sort-the-people) |
 ## Backtracking
 |  |
 | ------- |
@@ -76,6 +79,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0242-valid-anagram) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2418-sort-the-people](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/2418-sort-the-people) |
 ## Bit Manipulation
 |  |
 | ------- |
