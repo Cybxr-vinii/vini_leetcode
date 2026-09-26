@@ -32,6 +32,7 @@
 | [0367-valid-perfect-square](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0412-fizz-buzz) |
 | [1037-valid-boomerang](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/1037-valid-boomerang) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
 |  |
@@ -134,4 +135,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0278-first-bad-version) |
+## Linked List
+|  |
+| ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
