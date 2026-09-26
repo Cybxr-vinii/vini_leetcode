@@ -69,6 +69,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0035-search-insert-position) |
+| [0278-first-bad-version](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0367-valid-perfect-square) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Breadth-First Search
@@ -129,4 +130,8 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0657-robot-return-to-origin) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
