@@ -7,12 +7,14 @@
 | [0001-two-sum](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0046-permutations) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1672-richest-customer-wealth](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0242-valid-anagram) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Math
 |  |
 | ------- |
@@ -49,6 +51,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0035-search-insert-position) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -57,6 +60,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0242-valid-anagram) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -65,4 +69,8 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/1672-richest-customer-wealth) |
+## Two Pointers
+|  |
+| ------- |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 <!---LeetCode Topics End-->
