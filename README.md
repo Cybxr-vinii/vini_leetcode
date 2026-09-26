@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0046-permutations) |
+| [1037-valid-boomerang](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/1037-valid-boomerang) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1672-richest-customer-wealth](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
@@ -22,6 +23,7 @@
 | [0009-palindrome-number](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0367-valid-perfect-square) |
+| [1037-valid-boomerang](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/1037-valid-boomerang) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
 |  |
@@ -85,4 +87,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0070-climbing-stairs) |
+## Geometry
+|  |
+| ------- |
+| [1037-valid-boomerang](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/1037-valid-boomerang) |
 <!---LeetCode Topics End-->
