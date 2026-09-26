@@ -41,6 +41,7 @@
 | [0242-valid-anagram](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0257-binary-tree-paths) |
 | [0412-fizz-buzz](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0412-fizz-buzz) |
+| [0657-robot-return-to-origin](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0709-to-lower-case) |
 | [0929-unique-email-addresses](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0929-unique-email-addresses) |
 | [2418-sort-the-people](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/2418-sort-the-people) |
@@ -127,4 +128,5 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0412-fizz-buzz) |
+| [0657-robot-return-to-origin](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0657-robot-return-to-origin) |
 <!---LeetCode Topics End-->
