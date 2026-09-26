@@ -17,6 +17,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0009-palindrome-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
 |  |
 | ------- |
@@ -55,4 +56,8 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0242-valid-anagram) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
