@@ -11,6 +11,7 @@
 | [0136-single-number](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0136-single-number) |
 | [0929-unique-email-addresses](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0929-unique-email-addresses) |
 | [0941-valid-mountain-array](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0941-valid-mountain-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1037-valid-boomerang](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/1037-valid-boomerang) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1672-richest-customer-wealth](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/1672-richest-customer-wealth) |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0242-valid-anagram) |
+| [0977-squares-of-a-sorted-array](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2418-sort-the-people](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/2418-sort-the-people) |
 ## Bit Manipulation
@@ -96,6 +98,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Dynamic Programming
 |  |
