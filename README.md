@@ -18,6 +18,7 @@
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0058-length-of-last-word) |
 | [0257-binary-tree-paths](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0257-binary-tree-paths) |
 ## Backtracking
 |  |
