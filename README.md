@@ -10,6 +10,7 @@
 | [0066-plus-one](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0217-contains-duplicate) |
 | [0929-unique-email-addresses](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0929-unique-email-addresses) |
 | [0941-valid-mountain-array](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -21,6 +22,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0242-valid-anagram) |
 | [0929-unique-email-addresses](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0929-unique-email-addresses) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -83,6 +85,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
