@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0046-permutations) |
+| [0066-plus-one](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0136-single-number) |
 | [0929-unique-email-addresses](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0929-unique-email-addresses) |
@@ -29,6 +30,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0412-fizz-buzz) |
