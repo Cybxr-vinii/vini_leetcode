@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0242-valid-anagram) |
 | [0929-unique-email-addresses](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0929-unique-email-addresses) |
@@ -32,6 +33,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0367-valid-perfect-square) |
@@ -42,6 +44,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0242-valid-anagram) |
