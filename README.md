@@ -152,6 +152,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Trie
 |  |
@@ -165,4 +166,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0020-valid-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Cybxr-vinii/vini_leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
